@@ -12,3 +12,6 @@ install:
 https://python-gitlab.readthedocs.io/en/stable/install.html
 about status:
 https://python-gitlab.readthedocs.io/en/stable/cli-usage.html#examples
+
+pour la configuration
+https://stackoverflow.com/questions/57469184/how-do-i-access-gitlab-api-using-python-gitlab
